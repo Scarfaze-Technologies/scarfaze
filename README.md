@@ -3,7 +3,7 @@
 <!-- ===================================== -->
 
 <p align="center">
-  <img src="[https://cdn.scarfaze.site/assets/logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLPEAyedsZ3sLMB8CkH3SqJN_ggEhF_fZzXg&s)" alt="Scarfaze Logo" width="150" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLPEAyedsZ3sLMB8CkH3SqJN_ggEhF_fZzXg&s" alt="Scarfaze Logo" width="150" />
 </p>
 
 <h1 align="center">🧩 Scarfaze</h1>
@@ -137,7 +137,7 @@ License information will be added after the open-source phase.
 | 🌍 Website | [www.scarfaze.site](https://www.scarfaze.site) |
 | 📧 Email | official@scarfaze.com |
 | 🧠 Organization | [github.com/Scarfaze-Technologies](https://github.com/Scarfaze-Technologies) |
-| 💼 LinkedIn | [linkedin.com/company/scarfazecompany](https://linkedin.com/company/scarfazecompany) |
+| 💼 LinkedIn | [linkedin.com/in/scarfaze](https://www.linkedin.com/in/scarfaze/) |
 
 ---
 
